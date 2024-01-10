@@ -1,1 +1,1 @@
-# Password-Generator(useing Python)
+# Password-Generator(using Python)

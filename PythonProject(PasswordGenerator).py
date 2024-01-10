@@ -1,12 +1,8 @@
-#-------------------------------------------------------------------------------
 # Name:        module1
-# Purpose:
 #
 # Author:      Sourav Dutta
 #
 # Created:     02-12-2023
-# Copyright:   (c) DELL PC 2023
-# Licence:     <your licence>
 #------------------------------------------------------------------------------
 # password Generator
 

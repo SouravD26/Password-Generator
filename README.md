@@ -1,1 +1,2 @@
-# Password-Generator
+# Password-Generator(useing Python)
+# Author - Sourav Dutta
